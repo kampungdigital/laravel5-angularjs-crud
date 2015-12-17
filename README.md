@@ -1,1 +1,1 @@
-# laravel5-angularjs-crud
+# Laravel 5 - AngularJS CRUD
