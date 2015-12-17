@@ -1,8 +1,21 @@
-# Laravel 5 - AngularJS CRUD
+### Laravel 5 - AngularJS CRUD
 
-Feature :
-
-Core :
+#### Core :
+```
 - Laravel 5
 - AngularJS
 - Bootstrap 4
+```
+
+#### Feature :
+
+#### Folder Struktur :
+```
+app/
+public/
+	assets/
+	templates/
+resources/
+	assets/
+	views/
+```
